@@ -233,5 +233,5 @@ body{
 
 .icons .call::after{
     background-image:url(../images/call.svg);
-            background-size: 30px 20px !important;
+            background-size: 30px 24px !important;
 }
