@@ -1,3 +1,9 @@
+/*
+
+disclaimer color color: #554444;
+
+*/
+
 html, body {
 	width: 100%;
 	margin: 0;
@@ -48,8 +54,8 @@ hr {
 
 .fontDisclaimer {
 	font-weight: 200;
-    font-size: 0.8em;
-    color: darkgray;
+    font-size: 0.7em;
+     color: #554444;
 }
 
 .fontHeading {
@@ -415,4 +421,10 @@ hr {
 .download a:hover {
 	color: #000;
 	background-color: #FFC107;
+}
+
+.notImportant{
+	font-weight: 300;
+    font-size: 0.9em;
+    color: #554444;
 }
