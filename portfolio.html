@@ -27,10 +27,13 @@
       <script src="jslibs/swiper.min.js"></script>
    </head>
    <body>
-      <div class="topBar">
-         <div class="avatar"></div>
-         <span class="title fontHeading"> Kartik Shah </span>
-      </div>
+      <!-- <div > -->
+      <a class="topBar" href="javascript:gotoLanding();">
+		<span class="avatar"></span>
+        <span class="title fontHeading"> Kartik Shah </span>
+      </a>
+         
+      <!-- </div> -->
       <div class="mainContainer">
          <div class='marginTop'>
             <p class='fontPortfolio'>Development Portfolio</p>
@@ -120,7 +123,7 @@
                      the entire app experience, collaborating with multiple frontend
                      teams at TCS, 3<sup>rd</sup> party vendors & client for delivering
                      as per requirement. Leading a team of 7 developers, the app has
-                     10m+ installs & 3.4 + rating
+                     10m+ installs & 3.9 + rating
                   </p>
                   <p>Built on top of Backbase native hybrid framework to provide
                      logistic navigation from page A to page B. I provide native
@@ -131,7 +134,7 @@
                </div>
                <div class='links'>
                   <a target='_blank'
-                     href="https://play.google.com/store/apps/details?id=com.hdfc.retail.banking&hl=en">View
+                     href="https://play.google.com/store/apps/details?id=com.snapwork.hdfc">View
                   on playstore</a>
                </div>
             </div>
@@ -324,8 +327,8 @@
          <hr>
          <div class='download'>
             <div class='fontPortfolio'>Download my resume</div>
-            <a target="_blank" href="docs/kartik-standard.pdf">Standard
-            single page</a> <a target="_blank" href="docs/kartik-detailed.pdf">Detailed</a>
+            <a target="_blank" href="docs/Kartik-standard.pdf">Standard
+            single page</a> <a target="_blank" href="docs/Kartik-detailed.pdf">Detailed</a>
          </div>
          <div class="icons">
             <a rel="me" target="_blank"
@@ -417,5 +420,12 @@
       		el : '.sp4',
       	},
       });
+      
+      var gotoLanding=function(){
+    	  /* if(window.location.hostname=='localhost'){
+    		  window.location.assign('/index.html')
+    	  } */
+    	  window.location.assign('index.html')
+      }
    </script>
 </html>

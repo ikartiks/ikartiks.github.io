@@ -102,6 +102,8 @@ hr {
 	-webkit-align-items: center;
 	align-content: flex-start;
 	-webkit-align-content: flex-start;
+	text-decoration: none;
+    color: black;
 	/* other wise slider comes on top of it   */
 	z-index: 2;
 }
