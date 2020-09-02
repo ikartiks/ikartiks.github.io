@@ -39,7 +39,7 @@
         "meaning": "criticize/scold",
         "name": "Admonish",
         "sentence": "The principal admonished the students for misbehavior during the school assembly.",
-        "similarMeaningWords": "berate, excoriate, vituperate, rebuke, reprimand, chastise, castigate, lambast ,rail, reproach, reprove, upbraid, chide, objurgate",
+        "similarMeaningWords": "berate, excoriate, vituperate, rebuke, reprimand, chastise, castigate, lambast, rail, reproach, reprove, upbraid, chide, objurgate",
         "understoodCount": -1,
         "groupId": 2
     },
@@ -72,7 +72,7 @@
         "meaning": "unbiased, neutral, impartial, non-discriminatory, uninvolved, dispassionate",
         "name": "Disinterested",
         "sentence": "A true sage is the one who is disinterested in all things worldly.",
-        "similarMeaningWords": "equitable, unprepossessing, unprejudiced, non-partisan,  detached",
+        "similarMeaningWords": "equitable, unprepossessing, unprejudiced, non-partisan, detached",
         "understoodCount": -1,
         "groupId": 2
     },
@@ -192,7 +192,7 @@
         "isStarred": 0,
         "meaning": "cause, produce",
         "name": "Engender",
-        "sentence": "Her behavior engendered feelings of distrust in her colleagues.",
+        "sentence": "Her behaviour engendered feelings of distrust in her colleagues.",
         "similarMeaningWords": "",
         "understoodCount": -1,
         "groupId": 2
@@ -237,7 +237,7 @@
         "meaning": "lasting a short time",
         "name": "Ephemeral",
         "sentence": "His worries were ephemeral since he received immediate monetary help from the charitable trust.",
-        "similarMeaningWords": "transient, Evanescent",
+        "similarMeaningWords": "transient, evanescent",
         "understoodCount": -1,
         "groupId": 2
     },
@@ -479,7 +479,7 @@
         "meaning": "regard or represent as being of little worth",
         "name": "Disparage",
         "sentence": "Their marriage didn't last long since her husband always disparaged her.",
-        "similarMeaningWords": "belittle, detract, denigrate, deprecate, deflate ",
+        "similarMeaningWords": "belittle, detract, denigrate, deprecate, deflate",
         "understoodCount": -1,
         "groupId": 2
     },
@@ -523,7 +523,7 @@
         "meaning": "stubborn, unmanageable",
         "name": "Intractable",
         "sentence": "No one can babysit John's kids since they are intractable.",
-        "similarMeaningWords": "obstreperous, obstinate ,refractory, unruly, tenacious",
+        "similarMeaningWords": "obstreperous, obstinate, refractory, unruly, tenacious",
         "understoodCount": -1,
         "groupId": 3
     },
@@ -655,7 +655,7 @@
         "meaning": "recklessly extravagant or wasteful in the use of resources",
         "name": "Profligate",
         "sentence": "The wife's profligate spending depleted all the savings of the husband.",
-        "similarMeaningWords": "dissipate ,squander, sybarite, spendthrift,  prodigal, thriftless, imprudent , improvident",
+        "similarMeaningWords": "dissipate, squander, sybarite, spendthrift, prodigal, thriftless, imprudent, improvident",
         "understoodCount": -1,
         "groupId": 3
     },
@@ -1403,7 +1403,7 @@
         "meaning": "hypothesize or put forward as fact or as a basis for argument",
         "name": "Posit",
         "sentence": "The theory posited by you shows some merit and hence the institute has decided to fund your research.",
-        "similarMeaningWords": "postulate, predicate ",
+        "similarMeaningWords": "postulate, predicate",
         "understoodCount": -1,
         "groupId": 4
     },
@@ -1942,7 +1942,7 @@
         "meaning": "lack of interest",
         "name": "Indifference",
         "sentence": "There is a rise of indifference amongst Apple enthusiasts as rivals like Android are making better quality phones at lower prices.",
-        "similarMeaningWords": "insipid , perfunctory, nonchalant, languid, lackadaisical, apathy, vapid, tepid ",
+        "similarMeaningWords": "insipid, perfunctory, nonchalant, languid, lackadaisical, apathy, vapid, tepid",
         "understoodCount": -1,
         "groupId": 5
     },
@@ -2019,7 +2019,7 @@
         "meaning": "overconfidence and pride",
         "name": "overweening",
         "sentence": "The overweening multinational company was grounded when a startup built a product that took away its entire market.",
-        "similarMeaningWords": "hubris, presumptuous, conceited, cocky,  haughtiness,  pomposity",
+        "similarMeaningWords": "hubris, presumptuous, conceited, cocky, haughtiness, pomposity",
         "understoodCount": -1,
         "groupId": 6
     },
@@ -2173,7 +2173,7 @@
         "meaning": "remove matter thought to be objectionable or unsuitable from; censor",
         "name": "Expurgate",
         "sentence": "The violent content of the show had to be expurgated for the TV audience.",
-        "similarMeaningWords": "Bowdlerize, blue-pencil",
+        "similarMeaningWords": "bowdlerize, blue-pencil",
         "understoodCount": -1,
         "groupId": 6
     },
@@ -4857,7 +4857,7 @@
         "meaning": "lasting or existing for a long or apparently infinite time",
         "name": "Perennial",
         "sentence": "The snow covered Kailasa mountain is a perennial source of  water for the surrounding areas.",
-        "similarMeaningWords": "enduring, chronic ,everlasting, perpetual",
+        "similarMeaningWords": "enduring, chronic, everlasting, perpetual",
         "understoodCount": -1,
         "groupId": 17
     },
@@ -4890,7 +4890,7 @@
         "meaning": "immoral and lacking principles",
         "name": "Ignoble",
         "sentence": "The high priest made Cersei Lannister pay for her ignoble actions.",
-        "similarMeaningWords": "sordid, complicit, unscrupulous, turpitude, base, depraved, reprobate ",
+        "similarMeaningWords": "sordid, complicit, unscrupulous, turpitude, base, depraved, reprobate",
         "understoodCount": -1,
         "groupId": 17
     },
