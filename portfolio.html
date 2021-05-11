@@ -18,12 +18,11 @@
       <!-- user-scalable=no is fix for static and fixed content on device rotation -->
       <meta name="viewport"
          content="width=device-width, initial-scale=1.0, user-scalable=no">
-      <!-- <meta name="theme-color" content="#ff00ff"> -->
+      
       <meta name="description" content="Kartik Shah's portfolio.">
-      <!-- <script src="images/loading.svg" data-src="/lib/jquery/dist/jquery.min.js"></script> -->
+      
       <script src="images/loading.svg" data-src="jslibs/fastclick.js"></script>
-      <!-- <script src="images/loading.svg" data-src="/scripts/landing.js"></script> -->
-      <script src="jslibs/jquery-3.3.1.min.js"></script>
+	<script src="jslibs/jquery-3.3.1.min.js"></script>
       <script src="jslibs/swiper.min.js"></script>
       <script src="jslibs/lazyload.js"></script>
    </head>
@@ -434,22 +433,20 @@
 			lazyload();
 		});
 		
-		
-      var mySwiper = new Swiper('.sc1', {
-      	init : true,
-      	direction : 'horizontal', // or 'vertical'
-      	touchEventsTarget : 'container',
-      	initialSlide : 0,
-      	speed : 300,
-      	preventInteractionOnTransition : false,
-      	navigation : {
+	
+const swiper = new Swiper('.swiper-container', {
+  direction: 'horizontal',
+
+  // If we need pagination
+  navigation : {
       		nextEl : '.snext1',
       		prevEl : '.sprev1',
       	},
       	pagination : {
       		el : '.sp1',
-      	},
-      });
+      	}
+});	
+     
       
       var mySwiper = new Swiper('.sc2', {
       	init : true,
