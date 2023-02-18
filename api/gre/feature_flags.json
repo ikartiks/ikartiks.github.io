@@ -1,5 +1,5 @@
 {
-  "enableNonHighFrequencyWords": true,
+  "enableNonHighFrequencyWords": false,
   "hideAds": false,
   "makeComments": true,
   "markStarred": true,
