@@ -145,7 +145,7 @@ body{
 .avatar{
     width:128px;
     height:128px;
-    background:url('../images/main.jpeg');
+    background:url('../images/main.webp');
     background-size:cover;
     border-radius:50%;
     background-color:#525252;

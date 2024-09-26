@@ -71,7 +71,7 @@ hr {
 .avatar {
 	width: 48px;
 	height: 48px;
-	background: url(../images/main.jpeg);
+	background: url(../images/main.webp);
 	background-size: cover;
 	border-radius: 50%;
 	background-color: #525252;
